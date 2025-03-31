@@ -8,3 +8,16 @@ __pycache__/
 build/
 dist/
 *.egg-info/
+.ipython_checkpoints
+*.egg
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+*.coverage
+*.cover
+*.hypothesis/
+*.mypy_cache/
+*.pytest_cache/
+*.coveragerc
+*.tox/

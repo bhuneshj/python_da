@@ -21,4 +21,13 @@
 - Deactivate  
     `deactivate`
 
+## Jupyter Labs
+Install JupyterLab with pip
+
+`pip install jupyterlab`
+
+Once installed, launch JupyterLab with:
+
+`jupyter notebook`
+
 ##  Working with Pandas
