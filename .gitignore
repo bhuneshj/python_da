@@ -22,3 +22,5 @@ dist/
 *.coveragerc
 *.tox/
 datasets/*
+.ipynb*
+_d_*
